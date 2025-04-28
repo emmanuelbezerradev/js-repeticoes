@@ -13,3 +13,5 @@ function tabuada(){
         console.log(`${numeroValue} x ${i} = ${numeroValue * i}`);
 }
 }
+
+
